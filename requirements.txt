@@ -1,0 +1,10 @@
+PyMuPDF>=1.24.0
+winrt-Windows.Media.Ocr>=3.2.1
+winrt-Windows.Foundation>=3.2.1
+winrt-Windows.Foundation.Collections>=3.2.1
+winrt-Windows.Globalization>=3.2.1
+winrt-Windows.Storage.Streams>=3.2.1
+winrt-Windows.Graphics.Imaging>=3.2.1
+reportlab>=4.0.9
+openpyxl>=3.1.0
+pytest>=7.4.0,<9
